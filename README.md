@@ -22,5 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepxi&show_icons=true&locale=en" alt="sandeepxi" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepxi&layout=compact)](https://github.com/sandeepxi)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepxi&" alt="sandeepxi" /></p>
 
