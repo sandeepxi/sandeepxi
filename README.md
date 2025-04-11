@@ -14,7 +14,6 @@
 - 💬 Ask me about **HTML, Android**
 - ⚡ Fun fact **I love Call of Duty**
 
----
 
 ### 🧰 Languages and Tools:
 
