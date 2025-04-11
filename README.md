@@ -2,23 +2,17 @@
 
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Coding" width="300"/>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sandeep456&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep456" /> 
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandeepxi&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepxi" />
-</p>
-
----
-
-### 🔥 About Me:
 - 🔭 I’m currently working on **To-do app**
 - 🌱 I’m currently learning **Blockchain**
 - 👯 I’m looking to collaborate on **Web3 projects**
 - 💬 Ask me about **HTML, Android**
-- ⚡ Fun fact: **I love Call of Duty**
+- ⚡ Fun fact **I love Call of Duty**
 
 ---
 
