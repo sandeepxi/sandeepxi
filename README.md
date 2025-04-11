@@ -31,9 +31,20 @@
 
 ---
 
+GitHub Stats:
+
 ## GitHub Stats:
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepxi&theme=tokyonight" width="430" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandeepxi&theme=tokyonight" width="430" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sandeepxi&show_icons=true&theme=tokyonight" width="390"/>
+      </td>
+
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepxi&layout=compact&theme=tokyonight" width="390"/>
+      </td>
+    </tr>
+  </table>
 </div>
