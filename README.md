@@ -31,10 +31,9 @@
 
 ---
 
-### GitHub Stats:
+<h3>📊 GitHub Stats:</h3>
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepxi&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="sandeepxi" />
-</p> <p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepxi&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepexi&show_icons=true&locale=en" alt="Sandeep's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepexi&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" width="400"/>
+</div>
