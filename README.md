@@ -33,13 +33,12 @@
 
 ---
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sandeepxi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=sandeepxi&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepxi&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
