@@ -25,11 +25,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepxi&" alt="sandeepxi" /></p>
 
-<img src="https://github-readme-streak-stats.demolab.com?user=sandeepxi" />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepxi&show_icons=true&locale=en" alt="sandeepxi" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=sandeepxi" alt="sandeepxi" />
-</p>
