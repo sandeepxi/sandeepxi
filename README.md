@@ -43,7 +43,7 @@
   <table>
     <tr>
       <td>
-        <img src="[https://github-readme-streak-stats.herokuapp.com/?user=sandeepxi&theme=default)" width="500"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepxi&theme=default" /> 
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepxi&layout=compact&theme=tokyonight" width="390"/>
