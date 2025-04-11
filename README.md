@@ -37,7 +37,6 @@
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepxi&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="sandeepxi" />
-</p>
-<p align="right">
+</p> <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepxi&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
