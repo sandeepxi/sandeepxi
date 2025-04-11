@@ -31,7 +31,11 @@
 </p>
 
 ---
+### GitHub Achievements
 
+[![](https://img.shields.io/badge/Pull%20Shark-%20-purple?style=for-the-badge&logo=github)](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#badges)
+[![](https://img.shields.io/badge/YOLO-%20-orange?style=for-the-badge&logo=github)](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#badges)
+[![](https://img.shields.io/badge/Quickdraw-%20-yellow?style=for-the-badge&logo=github)](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#badges)
 
 ## GitHub Stats:
 
