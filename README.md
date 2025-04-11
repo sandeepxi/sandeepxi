@@ -51,10 +51,14 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepxi&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="sandeepxi" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=sandeepxi&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepxi&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sandeepxi&theme=radical" alt="GitHub Streak" />
 </p>
