@@ -55,10 +55,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepxi&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="sandeepxi" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepxi&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sandeepxi&theme=radical" alt="GitHub Streak" />
-</p>
