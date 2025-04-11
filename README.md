@@ -31,9 +31,12 @@
 
 ---
 
-<h3>📊 GitHub Stats:</h3>
+## GitHub Stats:
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepexi&show_icons=true&locale=en" alt="Sandeep's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepexi&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" width="400"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepxi&show_icons=true&theme=tokyonight" width="400" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepxi&layout=compact&theme=tokyonight" width="400" />
+
 </div>
