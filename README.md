@@ -51,6 +51,10 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepxi&show_icons=true&locale=en" alt="sandeepxi" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepxi&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="sandeepxi" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepxi&" alt="sandeepxi" /></p>
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=sandeepxi&theme=transparent&hide_border=true" alt="sandeepxi streak" />
+</p>
