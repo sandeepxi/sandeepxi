@@ -43,7 +43,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sandeepxi&show_icons=true&theme=tokyonight&cache_seconds=900" width="390"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=sandeepxi&show_icons=true&theme=tokyonight&cache_seconds=900" width="500"/>
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepxi&layout=compact&theme=tokyonight" width="390"/>
